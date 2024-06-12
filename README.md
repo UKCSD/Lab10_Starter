@@ -1,6 +1,6 @@
 # Lab 10 - Starter
 
-Umar Khan
+Umar Khan, Kabir Sachdev
 
 Roadmap: https://cse110-lab10-ukcsd.canny.io
 
